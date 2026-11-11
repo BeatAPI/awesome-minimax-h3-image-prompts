@@ -1,0 +1,25 @@
+name: Submit an image prompt
+description: Share a MiniMax H3 Image result and its original prompt.
+title: "[Prompt] "
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Original creator post
+      description: Link to the original public post that identifies MiniMax H3 Image.
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Original prompt
+      description: Paste the exact prompt, or state that it has not been published.
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Result and reference images
+      description: Include required inputs, image order, settings and known usage rights.
+    validations:
+      required: true

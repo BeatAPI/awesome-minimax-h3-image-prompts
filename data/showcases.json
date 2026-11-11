@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "li-4",
+    "slug": "li-4",
+    "model": "minimax-h3-image",
+    "title": "Chengdu market · detail crop",
+    "category": "Photography",
+    "translations": {
+      "zh": {
+        "title": "成都菜市场 · 细节裁切",
+        "category": "摄影"
+      },
+      "ja": {
+        "title": "成都の市場 · 細部比較",
+        "category": "写真"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/583c7ff0d2bc3126db0e330b575c747a0cbf03376139f0972ff3651d3396d67e.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWzvQLNbwAE_C-o.jpg?name=orig",
+      "sha256": "583c7ff0d2bc3126db0e330b575c747a0cbf03376139f0972ff3651d3396d67e",
+      "width": 2020,
+      "height": 1000,
+      "kind": "image",
+      "alt": "Chengdu market · detail crop"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "li-5",
+    "slug": "li-5",
+    "model": "minimax-h3-image",
+    "title": "Portrait · fabric and skin details",
+    "category": "Photography",
+    "translations": {
+      "zh": {
+        "title": "人像 · 布料与皮肤细节",
+        "category": "摄影"
+      },
+      "ja": {
+        "title": "ポートレート · 布と肌の細部",
+        "category": "写真"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/a7ecbf6d08a6dcecd78e61b268c2e675afcd83bd2df638bb11944adcbc29dbd7.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWzva0dawAARy9b.jpg?name=orig",
+      "sha256": "a7ecbf6d08a6dcecd78e61b268c2e675afcd83bd2df638bb11944adcbc29dbd7",
+      "width": 1770,
+      "height": 1000,
+      "kind": "image",
+      "alt": "Portrait · fabric and skin details"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "li-6",
+    "slug": "li-6",
+    "model": "minimax-h3-image",
+    "title": "Rice terraces · panoramic landscape",
+    "category": "Photography",
+    "translations": {
+      "zh": {
+        "title": "梯田 · 超宽全景",
+        "category": "摄影"
+      },
+      "ja": {
+        "title": "棚田 · パノラマ風景",
+        "category": "写真"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/2a51ea92e2a29509a157b1cddd6b9325f74655b7b6375c227a2859e6e4f89448.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWzvq93aoAAsFA9.jpg?name=orig",
+      "sha256": "2a51ea92e2a29509a157b1cddd6b9325f74655b7b6375c227a2859e6e4f89448",
+      "width": 2200,
+      "height": 654,
+      "kind": "image",
+      "alt": "Rice terraces · panoramic landscape"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "li-7",
+    "slug": "li-7",
+    "model": "minimax-h3-image",
+    "title": "Posters, menus and information layouts",
+    "category": "Typography",
+    "translations": {
+      "zh": {
+        "title": "海报、菜单与信息排版",
+        "category": "文字排版"
+      },
+      "ja": {
+        "title": "ポスター・メニュー・情報レイアウト",
+        "category": "文字とレイアウト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/a907d2245fc9d30e33c7bf25732975998b3392ad7b51af5ac2f76534fd7f83d1.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWzvuDQakAEBDOl.jpg?name=orig",
+      "sha256": "a907d2245fc9d30e33c7bf25732975998b3392ad7b51af5ac2f76534fd7f83d1",
+      "width": 2200,
+      "height": 1467,
+      "kind": "image",
+      "alt": "Posters, menus and information layouts"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "li-9",
+    "slug": "li-9",
+    "model": "minimax-h3-image",
+    "title": "Counting, spatial relations and attributes",
+    "category": "Instruction following",
+    "translations": {
+      "zh": {
+        "title": "计数、空间关系与属性绑定",
+        "category": "指令遵循"
+      },
+      "ja": {
+        "title": "数・位置関係・属性の指定",
+        "category": "指示への追従"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/a277ace28b995e12c4b086403c9a6479fed82c410149807f1822c73c0755b553.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWzwzyBaQAEMkon.jpg?name=orig",
+      "sha256": "a277ace28b995e12c4b086403c9a6479fed82c410149807f1822c73c0755b553",
+      "width": 2200,
+      "height": 550,
+      "kind": "image",
+      "alt": "Counting, spatial relations and attributes"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "li-10",
+    "slug": "li-10",
+    "model": "minimax-h3-image",
+    "title": "Painting, pixel art and character design",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "绘画、像素艺术与角色设定",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "絵画・ピクセルアート・キャラクター設定",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/2119f5ae51e4534041c498f478d535f0ef30306a3cdafc030e7db309a00cf9ce.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWzw_PqaoAAfRbB.jpg?name=orig",
+      "sha256": "2119f5ae51e4534041c498f478d535f0ef30306a3cdafc030e7db309a00cf9ce",
+      "width": 2100,
+      "height": 2100,
+      "kind": "image",
+      "alt": "Painting, pixel art and character design"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "li-11",
+    "slug": "li-11",
+    "model": "minimax-h3-image",
+    "title": "Short Chinese vs detailed English prompts",
+    "category": "Prompt comparison",
+    "translations": {
+      "zh": {
+        "title": "中文短提示与英文详细提示对比",
+        "category": "提示词对比"
+      },
+      "ja": {
+        "title": "短い中国語と詳細な英語プロンプトの比較",
+        "category": "プロンプト比較"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/e841a81472d8f2ecc98cae37476a0714c442df20930e52ebd4727a2d172db6c8.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWzw6zJacAAREUU.jpg?name=orig",
+      "sha256": "e841a81472d8f2ecc98cae37476a0714c442df20930e52ebd4727a2d172db6c8",
+      "width": 1200,
+      "height": 1800,
+      "kind": "image",
+      "alt": "Short Chinese vs detailed English prompts"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "li-14",
+    "slug": "li-14",
+    "model": "minimax-h3-image",
+    "title": "Room composition with ten references",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "十张参考图布置客厅",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "10枚の参照画像でリビングを構成",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/c1efdc2d126b4d2ff0e3b0c27cd0a582dc905cbe249a5fb0982a191b3b9c7e49.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWz0M3IbQAA10BA.jpg?name=orig",
+      "sha256": "c1efdc2d126b4d2ff0e3b0c27cd0a582dc905cbe249a5fb0982a191b3b9c7e49",
+      "width": 1600,
+      "height": 1200,
+      "kind": "image",
+      "alt": "Room composition with ten references"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/588f91e434f2823ba3397c9942a594435bb6a714d65019613baa2f56ec69aed6.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWz0EMwbcAE_1zs.jpg?name=orig",
+        "sha256": "588f91e434f2823ba3397c9942a594435bb6a714d65019613baa2f56ec69aed6",
+        "width": 1600,
+        "height": 1200,
+        "kind": "image",
+        "alt": "Source reference input"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/66894400007b662ce794335ccd00c52fc419d159b150fa5486b5fe3c28e4a5c5.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWz0I32boAAyIeP.jpg?name=orig",
+        "sha256": "66894400007b662ce794335ccd00c52fc419d159b150fa5486b5fe3c28e4a5c5",
+        "width": 1624,
+        "height": 1624,
+        "kind": "image",
+        "alt": "Source reference input"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "li-16",
+    "slug": "li-16",
+    "model": "minimax-h3-image",
+    "title": "Grey render to coastal photograph",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "白模转海岸实景",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "グレーモデルから海岸の実写風景へ",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/4cf82d6c9374a93442e708602eb49dc60c76321fcf64321b198e20592239dd01.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWz0bHdbcAAk1Ti.jpg?name=orig",
+      "sha256": "4cf82d6c9374a93442e708602eb49dc60c76321fcf64321b198e20592239dd01",
+      "width": 1600,
+      "height": 1200,
+      "kind": "image",
+      "alt": "Grey render to coastal photograph"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/96e132d4f096c0e8c1398289df23378891dc7673ae4cd1a438654cd06ddb3510.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWz0XmqboAAXGh5.jpg?name=orig",
+        "sha256": "96e132d4f096c0e8c1398289df23378891dc7673ae4cd1a438654cd06ddb3510",
+        "width": 1600,
+        "height": 1200,
+        "kind": "image",
+        "alt": "Source reference input"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "li-18",
+    "slug": "li-18",
+    "model": "minimax-h3-image",
+    "title": "Game map to first-person view",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "游戏地图转第一人称视角",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "ゲームマップから一人称視点へ",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/dbab24655c63bf187b38566974c5953969231323144438c529de3255210db420.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWz0oJAaIAEdUk3.jpg?name=orig",
+      "sha256": "dbab24655c63bf187b38566974c5953969231323144438c529de3255210db420",
+      "width": 1600,
+      "height": 898,
+      "kind": "image",
+      "alt": "Game map to first-person view"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/5c6bf9edf650573906142c1f15e90cc0a22eedc7c575bea151643118572f1f76.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWz0hSObMAAOI00.jpg?name=orig",
+        "sha256": "5c6bf9edf650573906142c1f15e90cc0a22eedc7c575bea151643118572f1f76",
+        "width": 1600,
+        "height": 1600,
+        "kind": "image",
+        "alt": "Source reference input"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "li-20",
+    "slug": "li-20",
+    "model": "minimax-h3-image",
+    "title": "Character, jacket and street composition",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "人物、夹克与街景合成",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "人物・ジャケット・街並みの合成",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/1be17a1d0ba4ebd7c0b3eae68d1662959ace71a99d10395738be2db04e6a9003.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWz1MF5awAA31hT.jpg?name=orig",
+      "sha256": "1be17a1d0ba4ebd7c0b3eae68d1662959ace71a99d10395738be2db04e6a9003",
+      "width": 898,
+      "height": 1600,
+      "kind": "image",
+      "alt": "Character, jacket and street composition"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/e960d33d04c15ea8fa5ecc5c65d5d2f6dff8a8bc92aaed1b29977e88071b995b.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWz0zr6aEAAo2-K.jpg?name=orig",
+        "sha256": "e960d33d04c15ea8fa5ecc5c65d5d2f6dff8a8bc92aaed1b29977e88071b995b",
+        "width": 2200,
+        "height": 743,
+        "kind": "image",
+        "alt": "Source reference input"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "li-21",
+    "slug": "li-21",
+    "model": "minimax-h3-image",
+    "title": "Poster text and character pose editing",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "海报文字与人物姿势编辑",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "ポスターの文字と人物ポーズの編集",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/d7b2071afe01a5c082201d156c23123aa7bf220ef70a2bd29676c0a76288c936.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWz1ACWaEAAntCa.jpg?name=orig",
+      "sha256": "d7b2071afe01a5c082201d156c23123aa7bf220ef70a2bd29676c0a76288c936",
+      "width": 2200,
+      "height": 550,
+      "kind": "image",
+      "alt": "Poster text and character pose editing"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "li-23",
+    "slug": "li-23",
+    "model": "minimax-h3-image",
+    "title": "Repeated outfit edits · model comparison",
+    "category": "Multi-turn editing",
+    "translations": {
+      "zh": {
+        "title": "连续换装编辑 · 模型对比",
+        "category": "连续编辑"
+      },
+      "ja": {
+        "title": "服装の反復編集 · モデル比較",
+        "category": "反復編集"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/b3c7231ec3821bd7247ac94455c6b46f0cf9aaa7473263e66bb28ccdd26222c2.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWzxc5SaYAAVZAm.jpg?name=orig",
+      "sha256": "b3c7231ec3821bd7247ac94455c6b46f0cf9aaa7473263e66bb28ccdd26222c2",
+      "width": 2100,
+      "height": 1609,
+      "kind": "image",
+      "alt": "Repeated outfit edits · model comparison"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image",
+      "Seedream 5.5",
+      "GPT Image 2.5"
+    ],
+    "comparison": true,
+    "preview": true
+  },
+  {
+    "id": "li-25",
+    "slug": "li-25",
+    "model": "minimax-h3-image",
+    "title": "Clock hands · repeated editing",
+    "category": "Multi-turn editing",
+    "translations": {
+      "zh": {
+        "title": "秒针移动 · 连续编辑",
+        "category": "连续编辑"
+      },
+      "ja": {
+        "title": "秒針の移動 · 反復編集",
+        "category": "反復編集"
+      }
+    },
+    "source": {
+      "url": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "author": "@MinLiBuilds",
+      "modelEvidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/60b35d6d28725fe6e56cea548d426a5bdd2d6009addf10a2049f33bed0a8c22f.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWzyDseasAA_9Sz.jpg?name=orig",
+      "sha256": "60b35d6d28725fe6e56cea548d426a5bdd2d6009addf10a2049f33bed0a8c22f",
+      "width": 2100,
+      "height": 900,
+      "kind": "image",
+      "alt": "Clock hands · repeated editing"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://x.com/MinLiBuilds/status/2120341428203311463",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "official-photo",
+    "slug": "official-photo",
+    "model": "minimax-h3-image",
+    "title": "Photorealistic photography",
+    "category": "Photography",
+    "translations": {
+      "zh": {
+        "title": "写实摄影",
+        "category": "摄影"
+      },
+      "ja": {
+        "title": "写実的な写真",
+        "category": "写真"
+      }
+    },
+    "source": {
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "author": "MiniMax",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/72109156235cdb2bac86fc1b2198fecfcbccb33ca099084af425f9de638cbea5.webp",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/resolve/main/assets/showcase/photo.jpg",
+      "sha256": "72109156235cdb2bac86fc1b2198fecfcbccb33ca099084af425f9de638cbea5",
+      "width": 2200,
+      "height": 408,
+      "kind": "image",
+      "alt": "Photorealistic photography"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "official-surreal",
+    "slug": "official-surreal",
+    "model": "minimax-h3-image",
+    "title": "Surreal editorial photography",
+    "category": "Photography",
+    "translations": {
+      "zh": {
+        "title": "超现实创意摄影",
+        "category": "摄影"
+      },
+      "ja": {
+        "title": "シュールなエディトリアル写真",
+        "category": "写真"
+      }
+    },
+    "source": {
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "author": "MiniMax",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/5309245014d939bcfaaade6cfd5381286db40e0a4aa596971ea10bfe0b81d6a7.webp",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/resolve/main/assets/showcase/surreal.jpg",
+      "sha256": "5309245014d939bcfaaade6cfd5381286db40e0a4aa596971ea10bfe0b81d6a7",
+      "width": 2200,
+      "height": 409,
+      "kind": "image",
+      "alt": "Surreal editorial photography"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "official-scene",
+    "slug": "official-scene",
+    "model": "minimax-h3-image",
+    "title": "Environment concepts",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "环境概念设计",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "環境コンセプト",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "author": "MiniMax",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/003b7ce7699434de14cf56d954002521783551dfc427328116ad71c0f4e92e65.webp",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/resolve/main/assets/showcase/scene.jpg",
+      "sha256": "003b7ce7699434de14cf56d954002521783551dfc427328116ad71c0f4e92e65",
+      "width": 2200,
+      "height": 1239,
+      "kind": "image",
+      "alt": "Environment concepts"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "official-char",
+    "slug": "official-char",
+    "model": "minimax-h3-image",
+    "title": "Characters, creatures and props",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "角色、生物与道具",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "キャラクター・生物・小道具",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "author": "MiniMax",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/1a1b665e1ef772acb0789149780007f36b995c340422eae507d0fb81368a5b6b.webp",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/resolve/main/assets/showcase/char.jpg",
+      "sha256": "1a1b665e1ef772acb0789149780007f36b995c340422eae507d0fb81368a5b6b",
+      "width": 2200,
+      "height": 512,
+      "kind": "image",
+      "alt": "Characters, creatures and props"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "official-art",
+    "slug": "official-art",
+    "model": "minimax-h3-image",
+    "title": "Painting and illustration",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "绘画与插画",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "絵画とイラスト",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "author": "MiniMax",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/932489a2c96280320e03e340d991719010c5cd35e2967cc22f16edf6b4700504.webp",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/resolve/main/assets/showcase/art.jpg",
+      "sha256": "932489a2c96280320e03e340d991719010c5cd35e2967cc22f16edf6b4700504",
+      "width": 2200,
+      "height": 725,
+      "kind": "image",
+      "alt": "Painting and illustration"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "official-text",
+    "slug": "official-text",
+    "model": "minimax-h3-image",
+    "title": "Logic puzzles and text rendering",
+    "category": "Typography",
+    "translations": {
+      "zh": {
+        "title": "逻辑题与文字渲染",
+        "category": "文字排版"
+      },
+      "ja": {
+        "title": "論理パズルと文字描画",
+        "category": "文字とレイアウト"
+      }
+    },
+    "source": {
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "author": "MiniMax",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/ae0b61252020f370d25f765734179948cb75aeca845ec983ffb0daf8d88c8f2b.webp",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/resolve/main/assets/showcase/text.jpg",
+      "sha256": "ae0b61252020f370d25f765734179948cb75aeca845ec983ffb0daf8d88c8f2b",
+      "width": 2200,
+      "height": 616,
+      "kind": "image",
+      "alt": "Logic puzzles and text rendering"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "official-edit-render",
+    "slug": "official-edit-render",
+    "model": "minimax-h3-image",
+    "title": "Lunar base · render to film still",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "月球基地 · 白模转电影画面",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "月面基地 · レンダリングから映画の一場面へ",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "author": "MiniMax",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/c7c0769954ac2b01a56fb1cb8dec49988840ddee72b2770939c59e55c88da118.webp",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/resolve/main/assets/showcase/edit_render.jpg",
+      "sha256": "c7c0769954ac2b01a56fb1cb8dec49988840ddee72b2770939c59e55c88da118",
+      "width": 2200,
+      "height": 616,
+      "kind": "image",
+      "alt": "Lunar base · render to film still"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "official-edit-map",
+    "slug": "official-edit-map",
+    "model": "minimax-h3-image",
+    "title": "Map to game viewpoint",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "地图转游戏视角",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "マップからゲームの視点へ",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "author": "MiniMax",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/cf2343601f1652f2cb24fa5f2e71d0c11b9555c1e215e20ee4ae0f11ebf9787b.webp",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/resolve/main/assets/showcase/edit_map.jpg",
+      "sha256": "cf2343601f1652f2cb24fa5f2e71d0c11b9555c1e215e20ee4ae0f11ebf9787b",
+      "width": 2200,
+      "height": 668,
+      "kind": "image",
+      "alt": "Map to game viewpoint"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "official-edit-multi",
+    "slug": "official-edit-multi",
+    "model": "minimax-h3-image",
+    "title": "Living room · ten-reference composition",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "客厅 · 十图参考合成",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "リビング · 10枚の参照画像を合成",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "author": "MiniMax",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/d23386544cd8f71cd4d20b7588b7d02cc9057186dc5409bdd19f551cdd0606a8.webp",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/resolve/main/assets/showcase/edit_multi.jpg",
+      "sha256": "d23386544cd8f71cd4d20b7588b7d02cc9057186dc5409bdd19f551cdd0606a8",
+      "width": 2200,
+      "height": 1461,
+      "kind": "image",
+      "alt": "Living room · ten-reference composition"
+    },
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original public source, archived 2026-11-11. No separate redistribution license asserted.",
+      "evidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "references": [],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  }
+]
