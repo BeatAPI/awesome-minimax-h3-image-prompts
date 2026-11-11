@@ -1,5 +1,1847 @@
 [
   {
+    "id": "x-2120191917254119803",
+    "slug": "x-2120191917254119803",
+    "model": "minimax-h3-image",
+    "title": "Birthday on disposable film",
+    "category": "Photography",
+    "translations": {
+      "zh": {
+        "title": "一次性胶片相机里的生日",
+        "category": "摄影"
+      },
+      "ja": {
+        "title": "使い捨てカメラで撮る誕生日",
+        "category": "写真"
+      }
+    },
+    "source": {
+      "url": "https://x.com/frankzaga24/status/2120191917254119803",
+      "author": "@frankzaga24",
+      "modelEvidenceUrl": "https://x.com/frankzaga24/status/2120191917254119803"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/4f29b4c7bd7d7eea3796d5dc643050be7f256f557e528bc3470e3a7a7da343b3.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxvTaCX0AADjwb.jpg?name=orig",
+      "sha256": "4f29b4c7bd7d7eea3796d5dc643050be7f256f557e528bc3470e3a7a7da343b3",
+      "width": 1742,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Birthday on disposable film"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/frankzaga24/status/2120191917254119803",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120082931154559160",
+    "slug": "x-2120082931154559160",
+    "model": "minimax-h3-image",
+    "title": "MoonPay campaign concepts",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "MoonPay 品牌视觉",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "MoonPayの広告ビジュアル",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/nicravesh/status/2120082931154559160",
+      "author": "@nicravesh",
+      "modelEvidenceUrl": "https://x.com/nicravesh/status/2120082931154559160"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/b6a35816c9d5f4aefde0d55090aac4649a2629cc2658374b26d199ce2decfb3a.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWwMFmfWYAAhx1X.jpg?name=orig",
+      "sha256": "b6a35816c9d5f4aefde0d55090aac4649a2629cc2658374b26d199ce2decfb3a",
+      "width": 2200,
+      "height": 1635,
+      "kind": "image",
+      "alt": "MoonPay campaign concepts"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/nicravesh/status/2120082931154559160",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/f5d8aaf1bb071639e06fdd37f3a99283e379613c4a0d6c57213fcc46a7a20242.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWwMHCQWsAAKToQ.jpg?name=orig",
+        "sha256": "f5d8aaf1bb071639e06fdd37f3a99283e379613c4a0d6c57213fcc46a7a20242",
+        "width": 2200,
+        "height": 1635,
+        "kind": "image",
+        "alt": "MoonPay campaign concepts"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/141d9c51c5ac0a8fc55111ac694a3eb2f9e8be1b89c3388a517afed1b2d42a05.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWwMIZmWIAAf385.jpg?name=orig",
+        "sha256": "141d9c51c5ac0a8fc55111ac694a3eb2f9e8be1b89c3388a517afed1b2d42a05",
+        "width": 2200,
+        "height": 1635,
+        "kind": "image",
+        "alt": "MoonPay campaign concepts"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/e04096a3d93ee386b23642cd5e68a4458f61023a06ceedee21569d077c264a65.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWwMJnzXAAANWhm.jpg?name=orig",
+        "sha256": "e04096a3d93ee386b23642cd5e68a4458f61023a06ceedee21569d077c264a65",
+        "width": 2200,
+        "height": 1635,
+        "kind": "image",
+        "alt": "MoonPay campaign concepts"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120414935700128219",
+    "slug": "x-2120414935700128219",
+    "model": "minimax-h3-image",
+    "title": "Wildlife anatomy posters",
+    "category": "Typography",
+    "translations": {
+      "zh": {
+        "title": "野生动物解剖海报",
+        "category": "文字排版"
+      },
+      "ja": {
+        "title": "野生動物の解剖ポスター",
+        "category": "文字とレイアウト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/AmControo/status/2120414935700128219",
+      "author": "@AmControo",
+      "modelEvidenceUrl": "https://x.com/AmControo/status/2120414935700128219"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/dfe63bd84cbce72bce972c9ce15f8ae5466e8476b3d4cb70c22c2f4b401fd6a9.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HW06IR2W8AAxTmx.jpg?name=orig",
+      "sha256": "dfe63bd84cbce72bce972c9ce15f8ae5466e8476b3d4cb70c22c2f4b401fd6a9",
+      "width": 1081,
+      "height": 1455,
+      "kind": "image",
+      "alt": "Wildlife anatomy posters"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/AmControo/status/2120414935700128219",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/093d1520b255d9fba3c2c47bbdf29a16043f9749ef67d29cccf83f7f5d9ea9dd.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW06I_zXIAAc1G7.jpg?name=orig",
+        "sha256": "093d1520b255d9fba3c2c47bbdf29a16043f9749ef67d29cccf83f7f5d9ea9dd",
+        "width": 1081,
+        "height": 1455,
+        "kind": "image",
+        "alt": "Wildlife anatomy posters"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120360854189494459",
+    "slug": "x-2120360854189494459",
+    "model": "minimax-h3-image",
+    "title": "Concrete fashion editorials",
+    "category": "Typography",
+    "translations": {
+      "zh": {
+        "title": "混凝土街头时尚海报",
+        "category": "文字排版"
+      },
+      "ja": {
+        "title": "コンクリートとストリートファッション",
+        "category": "文字とレイアウト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/FikkkFX/status/2120360854189494459",
+      "author": "@FikkkFX",
+      "modelEvidenceUrl": "https://x.com/FikkkFX/status/2120360854189494459"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/a05462a674d53ac1c8692a50165d5f2d06d34e1e00ee4b95c35b80d2b677a094.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HW0ItaLbwAA5wer.jpg?name=orig",
+      "sha256": "a05462a674d53ac1c8692a50165d5f2d06d34e1e00ee4b95c35b80d2b677a094",
+      "width": 2200,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Concrete fashion editorials"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/FikkkFX/status/2120360854189494459",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/b2d77778afb65e8a432c81e3eea46260aa63dcbb24234ccf471e91241455c344.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW0Ita1aMAAz4Vy.jpg?name=orig",
+        "sha256": "b2d77778afb65e8a432c81e3eea46260aa63dcbb24234ccf471e91241455c344",
+        "width": 2200,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Concrete fashion editorials"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/3d5040288b267a8ff3e1a390b2155e5e2ee80e96a207cb02d329062bb164761e.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW0ItaxaoAAFSbi.jpg?name=orig",
+        "sha256": "3d5040288b267a8ff3e1a390b2155e5e2ee80e96a207cb02d329062bb164761e",
+        "width": 2200,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Concrete fashion editorials"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/4b9ba25fec68d784fdda2272a4838dc9630cb3a2006cebeefa11ed02bc2bdfe2.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW0ItaNa4AAcGbV.jpg?name=orig",
+        "sha256": "4b9ba25fec68d784fdda2272a4838dc9630cb3a2006cebeefa11ed02bc2bdfe2",
+        "width": 2200,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Concrete fashion editorials"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120394625856795064",
+    "slug": "x-2120394625856795064",
+    "model": "minimax-h3-image",
+    "title": "Paper-cut city souvenirs",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "剪纸城市纪念海报",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "切り絵の都市ポスター",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/AIWithRay/status/2120394625856795064",
+      "author": "@AIWithRay",
+      "modelEvidenceUrl": "https://x.com/AIWithRay/status/2120394625856795064"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/0fb318ea2aec1efc62db8817015b8e7efaf34ee8e62a5f07d493177f7c49c477.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HW0nhPtboAAEEnr.jpg?name=orig",
+      "sha256": "0fb318ea2aec1efc62db8817015b8e7efaf34ee8e62a5f07d493177f7c49c477",
+      "width": 1650,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Paper-cut city souvenirs"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/AIWithRay/status/2120394625856795064",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/95aeb5252494ed97220439bb9e7d46f3a5f1f8c8163aa5ad7a10cbb215fb9cf2.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW0nj_Ea4AAJqGl.jpg?name=orig",
+        "sha256": "95aeb5252494ed97220439bb9e7d46f3a5f1f8c8163aa5ad7a10cbb215fb9cf2",
+        "width": 1650,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Paper-cut city souvenirs"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/cf10092f2256fd4169ee770615e6e0f263fede8434108e7dff8abd036eea2c7d.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW0nmFGbEAAwLDG.jpg?name=orig",
+        "sha256": "cf10092f2256fd4169ee770615e6e0f263fede8434108e7dff8abd036eea2c7d",
+        "width": 1650,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Paper-cut city souvenirs"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/f94ea6169d4ca12460f61a6cda24e4c5f86281a8c04b8bbe77872ed4935ff230.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW0noreb0AA3szo.jpg?name=orig",
+        "sha256": "f94ea6169d4ca12460f61a6cda24e4c5f86281a8c04b8bbe77872ed4935ff230",
+        "width": 1650,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Paper-cut city souvenirs"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120394988756582450",
+    "slug": "x-2120394988756582450",
+    "model": "minimax-h3-image",
+    "title": "Dark Legion fantasy posters",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "暗黑军团奇幻海报",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "ダークレギオンの幻想ポスター",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/SyntheSarah/status/2120394988756582450",
+      "author": "@SyntheSarah",
+      "modelEvidenceUrl": "https://x.com/SyntheSarah/status/2120394988756582450"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/30b2badf946ead958343ae87779835f60627d779b66525c44db78d4b90c4f764.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HW0n9OnX0AAw1rO.jpg?name=orig",
+      "sha256": "30b2badf946ead958343ae87779835f60627d779b66525c44db78d4b90c4f764",
+      "width": 1235,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Dark Legion fantasy posters"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/SyntheSarah/status/2120394988756582450",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/d20d1bf6b7b8cb50c52540da6d66b71b5f10b1e83ab89f9999b5e6a10c3cb5e7.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW0n-XdXYAAKkF3.jpg?name=orig",
+        "sha256": "d20d1bf6b7b8cb50c52540da6d66b71b5f10b1e83ab89f9999b5e6a10c3cb5e7",
+        "width": 1235,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Dark Legion fantasy posters"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/9b48feab8e25da15767c79a27875b849991c82832a2131292eafafbdb3db0f14.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW0n_guWcAAnTBh.jpg?name=orig",
+        "sha256": "9b48feab8e25da15767c79a27875b849991c82832a2131292eafafbdb3db0f14",
+        "width": 1235,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Dark Legion fantasy posters"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120308329327247373",
+    "slug": "x-2120308329327247373",
+    "model": "minimax-h3-image",
+    "title": "Sixteen sketches in one scene",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "十六张手绘角色合成",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "16体の手描きキャラクターを合成",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://x.com/akiyoshisan/status/2120308329327247373",
+      "author": "@akiyoshisan",
+      "modelEvidenceUrl": "https://x.com/akiyoshisan/status/2120308329327247373"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/b66550355e613c4e74486f70712ef7528fa6f65aeaad463437fea8423e4382f0.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWzYRbCaEAAZwKX.jpg?name=orig",
+      "sha256": "b66550355e613c4e74486f70712ef7528fa6f65aeaad463437fea8423e4382f0",
+      "width": 2000,
+      "height": 1123,
+      "kind": "image",
+      "alt": "Sixteen sketches in one scene"
+    },
+    "references": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/4d73699b3b09bcee905a94928bd0feb9ce2139f5d3a2b514349fdeb05a2e7ae5.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWzYQkraYAADIpI.jpg?name=orig",
+        "sha256": "4d73699b3b09bcee905a94928bd0feb9ce2139f5d3a2b514349fdeb05a2e7ae5",
+        "width": 2200,
+        "height": 1238,
+        "kind": "image",
+        "alt": "Sixteen sketches in one scene · reference input"
+      }
+    ],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/akiyoshisan/status/2120308329327247373",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120169678010188129",
+    "slug": "x-2120169678010188129",
+    "model": "minimax-h3-image",
+    "title": "Vintage cinema posters",
+    "category": "Typography",
+    "translations": {
+      "zh": {
+        "title": "复古电影海报",
+        "category": "文字排版"
+      },
+      "ja": {
+        "title": "レトロな映画ポスター",
+        "category": "文字とレイアウト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/FellMentKE/status/2120169678010188129",
+      "author": "@FellMentKE",
+      "modelEvidenceUrl": "https://x.com/FellMentKE/status/2120169678010188129"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/dd1e967bba89517b59f9202a02b96f8943fb6290e96ecd5ec46f1c433723a081.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxbFOQbAAAcodk.jpg?name=orig",
+      "sha256": "dd1e967bba89517b59f9202a02b96f8943fb6290e96ecd5ec46f1c433723a081",
+      "width": 853,
+      "height": 1280,
+      "kind": "image",
+      "alt": "Vintage cinema posters"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/FellMentKE/status/2120169678010188129",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/aaaaff89d56f506ca1cd8232d49aa7b334011a792288e3db5a4ca7ea572209c6.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWxbFfvaIAAz6rz.jpg?name=orig",
+        "sha256": "aaaaff89d56f506ca1cd8232d49aa7b334011a792288e3db5a4ca7ea572209c6",
+        "width": 853,
+        "height": 1280,
+        "kind": "image",
+        "alt": "Vintage cinema posters"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120369563921789029",
+    "slug": "x-2120369563921789029",
+    "model": "minimax-h3-image",
+    "title": "Calculator technical drawing",
+    "category": "Typography",
+    "translations": {
+      "zh": {
+        "title": "计算器技术示意图",
+        "category": "文字排版"
+      },
+      "ja": {
+        "title": "電卓の技術図解",
+        "category": "文字とレイアウト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/0x_zyven/status/2120369563921789029",
+      "author": "@0x_zyven",
+      "modelEvidenceUrl": "https://x.com/0x_zyven/status/2120369563921789029"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/d4854ae2a8ecafff129f1e2195ff12489dd31fc71789aa497628fb113123f028.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HW0Q3u-a4AEJ5M-.jpg?name=orig",
+      "sha256": "d4854ae2a8ecafff129f1e2195ff12489dd31fc71789aa497628fb113123f028",
+      "width": 2200,
+      "height": 1235,
+      "kind": "image",
+      "alt": "Calculator technical drawing"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/0x_zyven/status/2120369563921789029",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120129619886322162",
+    "slug": "x-2120129619886322162",
+    "model": "minimax-h3-image",
+    "title": "Four architectural perspectives",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "建筑的四种视角",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "建築を四つの視点から",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/Arcane_Aii/status/2120129619886322162",
+      "author": "@Arcane_Aii",
+      "modelEvidenceUrl": "https://x.com/Arcane_Aii/status/2120129619886322162"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/956ba841dfe053533cd73d1c10dacab483a7a0c6277b2bcbf3665d3ad0470420.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWw2oEhWAAASQoI.jpg?name=orig",
+      "sha256": "956ba841dfe053533cd73d1c10dacab483a7a0c6277b2bcbf3665d3ad0470420",
+      "width": 1320,
+      "height": 1637,
+      "kind": "image",
+      "alt": "Four architectural perspectives"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/Arcane_Aii/status/2120129619886322162",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/f6f997df744afb4fead7e6aee84fd2d4350d2b0e07ea83035e4b8dcdb2efe132.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWw1acLXcAEMhdI.jpg?name=orig",
+        "sha256": "f6f997df744afb4fead7e6aee84fd2d4350d2b0e07ea83035e4b8dcdb2efe132",
+        "width": 2200,
+        "height": 1235,
+        "kind": "image",
+        "alt": "Four architectural perspectives"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/59151c3f36b8fe90ac4fe50b0fde090f50274b4e4e104502cc3276d70724813b.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWw1ab_XcAE2ITW.jpg?name=orig",
+        "sha256": "59151c3f36b8fe90ac4fe50b0fde090f50274b4e4e104502cc3276d70724813b",
+        "width": 1754,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Four architectural perspectives"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/41acd282d03439b08fe78bb8d617cf5ec895785b8dcf735ea402520013a2639a.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWw1acNWsAAWj7D.jpg?name=orig",
+        "sha256": "41acd282d03439b08fe78bb8d617cf5ec895785b8dcf735ea402520013a2639a",
+        "width": 2200,
+        "height": 1235,
+        "kind": "image",
+        "alt": "Four architectural perspectives"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120109020648493441",
+    "slug": "x-2120109020648493441",
+    "model": "minimax-h3-image",
+    "title": "FPV racing drone exploded view",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "竞速无人机分解图",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "FPVドローンの分解図",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/darshal_/status/2120109020648493441",
+      "author": "@darshal_",
+      "modelEvidenceUrl": "https://x.com/darshal_/status/2120109020648493441"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/e7b2055446dc9e3955a63010a0dfdf3ae50abdfb5a66f4992aacd1e68700cd3d.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWwj6taakAES13X.jpg?name=orig",
+      "sha256": "e7b2055446dc9e3955a63010a0dfdf3ae50abdfb5a66f4992aacd1e68700cd3d",
+      "width": 2048,
+      "height": 2048,
+      "kind": "image",
+      "alt": "FPV racing drone exploded view"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/darshal_/status/2120109020648493441",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120166822708383845",
+    "slug": "x-2120166822708383845",
+    "model": "minimax-h3-image",
+    "title": "Moon and tide science poster",
+    "category": "Typography",
+    "translations": {
+      "zh": {
+        "title": "月相与潮汐科普海报",
+        "category": "文字排版"
+      },
+      "ja": {
+        "title": "月と潮汐の科学ポスター",
+        "category": "文字とレイアウト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/Caden_Flux/status/2120166822708383845",
+      "author": "@Caden_Flux",
+      "modelEvidenceUrl": "https://x.com/Caden_Flux/status/2120166822708383845"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/0e9b82dc92343c118c5a5c55d9e6128fd126f192b60c9c6834942c065fdb838e.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxYb-4aAAEvwpm.jpg?name=orig",
+      "sha256": "0e9b82dc92343c118c5a5c55d9e6128fd126f192b60c9c6834942c065fdb838e",
+      "width": 1650,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Moon and tide science poster"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/Caden_Flux/status/2120166822708383845",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120166920003436753",
+    "slug": "x-2120166920003436753",
+    "model": "minimax-h3-image",
+    "title": "Architecture as anatomy",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "建筑与人体解剖融合",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "建築と人体解剖の融合",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/os_orabi/status/2120166920003436753",
+      "author": "@os_orabi",
+      "modelEvidenceUrl": "https://x.com/os_orabi/status/2120166920003436753"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/622ff5d8ad7c9d50cf6a9ce56d7ba7cc42e28181c71bf93da0c85e82af815e68.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxYPMvXUAAk0Sv.jpg?name=orig",
+      "sha256": "622ff5d8ad7c9d50cf6a9ce56d7ba7cc42e28181c71bf93da0c85e82af815e68",
+      "width": 1650,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Architecture as anatomy"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/os_orabi/status/2120166920003436753",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120174574302335319",
+    "slug": "x-2120174574302335319",
+    "model": "minimax-h3-image",
+    "title": "Fisherman at sunset",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "落日下的渔夫油画",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "夕暮れの漁師の油彩画",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/0x_zyven/status/2120174574302335319",
+      "author": "@0x_zyven",
+      "modelEvidenceUrl": "https://x.com/0x_zyven/status/2120174574302335319"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/7d26b48e59450cc876c900a8480541b8dfff1744f0732fad2e5d2617e27cdb2e.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxfhHraUAAKeuo.jpg?name=orig",
+      "sha256": "7d26b48e59450cc876c900a8480541b8dfff1744f0732fad2e5d2617e27cdb2e",
+      "width": 2048,
+      "height": 2048,
+      "kind": "image",
+      "alt": "Fisherman at sunset"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/0x_zyven/status/2120174574302335319",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120012810042363959",
+    "slug": "x-2120012810042363959",
+    "model": "minimax-h3-image",
+    "title": "Five-string bass design studies",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "五弦贝斯设计与分解图",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "5弦ベースの設計・分解図",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://x.com/akiyoshisan/status/2120012810042363959",
+      "author": "@akiyoshisan",
+      "modelEvidenceUrl": "https://x.com/akiyoshisan/status/2120012810042363959"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/aaee13dbb585f660b0e2d472aa58a5be696f077912dad1a7c54d33282d50160e.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWvLPEibEAAj9NK.jpg?name=orig",
+      "sha256": "aaee13dbb585f660b0e2d472aa58a5be696f077912dad1a7c54d33282d50160e",
+      "width": 2000,
+      "height": 1123,
+      "kind": "image",
+      "alt": "Five-string bass design studies"
+    },
+    "references": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/2072ee968bdbf00a80f898ae76f33cd216a1d0316818970c962737f6d395b72b.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWvLPCUboAEAOzq.jpg?name=orig",
+        "sha256": "2072ee968bdbf00a80f898ae76f33cd216a1d0316818970c962737f6d395b72b",
+        "width": 1448,
+        "height": 1086,
+        "kind": "image",
+        "alt": "Five-string bass design studies · reference input"
+      }
+    ],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/akiyoshisan/status/2120012810042363959",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/433f87f7c123ce5f765f09f5a74a50403f8505be2cee8e8814c1be7288ab7e06.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWvLPCTbMAAJdHG.jpg?name=orig",
+        "sha256": "433f87f7c123ce5f765f09f5a74a50403f8505be2cee8e8814c1be7288ab7e06",
+        "width": 2200,
+        "height": 1235,
+        "kind": "image",
+        "alt": "Five-string bass design studies"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/99d03c42a9b86c7cf37262d5876d39f9a2fcb99c717165a0c0185682ef23c28f.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWvLPCRb0AA8RTV.jpg?name=orig",
+        "sha256": "99d03c42a9b86c7cf37262d5876d39f9a2fcb99c717165a0c0185682ef23c28f",
+        "width": 2200,
+        "height": 1235,
+        "kind": "image",
+        "alt": "Five-string bass design studies"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2119902560584913364",
+    "slug": "x-2119902560584913364",
+    "model": "minimax-h3-image",
+    "title": "Prim and Rose meet wildlife",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "Prim 与 Rose 的野外偶遇",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "PrimとRoseの野生動物との遭遇",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/ProperPrompter/status/2119902560584913364",
+      "author": "@ProperPrompter",
+      "modelEvidenceUrl": "https://x.com/ProperPrompter/status/2119902560584913364"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/dbdfa5a78b1979a36faae4ad0feaf90ebe0c0a63b3cbb8cbc1ea1613900fd0cf.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWtf_whX0AAf22n.jpg?name=orig",
+      "sha256": "dbdfa5a78b1979a36faae4ad0feaf90ebe0c0a63b3cbb8cbc1ea1613900fd0cf",
+      "width": 1635,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Prim and Rose meet wildlife"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/ProperPrompter/status/2119902560584913364",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/b8f65bbf806c599fa1fcd75793b01430e715bc69fdef148b782103adf2f29a23.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWtgAdeXwAId_fF.jpg?name=orig",
+        "sha256": "b8f65bbf806c599fa1fcd75793b01430e715bc69fdef148b782103adf2f29a23",
+        "width": 1635,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Prim and Rose meet wildlife"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120039620536947005",
+    "slug": "x-2120039620536947005",
+    "model": "minimax-h3-image",
+    "title": "Mechanical cutaways",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "机械结构与剖面图",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "機械の構造と断面図",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/_YashalAli/status/2120039620536947005",
+      "author": "@_YashalAli",
+      "modelEvidenceUrl": "https://x.com/_YashalAli/status/2120039620536947005"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/11d4131e6675e369fda9237b72884f2eefafd6f89909e39664389839beff76cd.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWvkucka0AAKYei.jpg?name=orig",
+      "sha256": "11d4131e6675e369fda9237b72884f2eefafd6f89909e39664389839beff76cd",
+      "width": 2200,
+      "height": 1635,
+      "kind": "image",
+      "alt": "Mechanical cutaways"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/_YashalAli/status/2120039620536947005",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/8366e719ad7944be598f74242a7e478984c16c0e7662868dcc840b6fff0f9e40.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWvkuczbMAAJcE1.jpg?name=orig",
+        "sha256": "8366e719ad7944be598f74242a7e478984c16c0e7662868dcc840b6fff0f9e40",
+        "width": 2200,
+        "height": 1635,
+        "kind": "image",
+        "alt": "Mechanical cutaways"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120203321994813888",
+    "slug": "x-2120203321994813888",
+    "model": "minimax-h3-image",
+    "title": "Sewing machine cutaway",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "缝纫机内部剖面",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "ミシンの内部断面",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/Bisma_hunn/status/2120203321994813888",
+      "author": "@Bisma_hunn",
+      "modelEvidenceUrl": "https://x.com/Bisma_hunn/status/2120203321994813888"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/b47a244a7d1d2af101dad0c739f8f1d6cf5dc2b1f8c034636249a54acf6d970c.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWx5mlXbsAAHuDI.jpg?name=orig",
+      "sha256": "b47a244a7d1d2af101dad0c739f8f1d6cf5dc2b1f8c034636249a54acf6d970c",
+      "width": 2200,
+      "height": 1650,
+      "kind": "image",
+      "alt": "Sewing machine cutaway"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/Bisma_hunn/status/2120203321994813888",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120168979939701215",
+    "slug": "x-2120168979939701215",
+    "model": "minimax-h3-image",
+    "title": "Modular dungeon kit",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "模块化地牢素材",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "モジュール式ダンジョン素材",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/kate_osita_/status/2120168979939701215",
+      "author": "@kate_osita_",
+      "modelEvidenceUrl": "https://x.com/kate_osita_/status/2120168979939701215"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/523c8f5a6b37b4d76ecb3c72f65ff64dea8b57ae51906b0933d140ca75704aec.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxac5kbUAAbpKd.jpg?name=orig",
+      "sha256": "523c8f5a6b37b4d76ecb3c72f65ff64dea8b57ae51906b0933d140ca75704aec",
+      "width": 1280,
+      "height": 722,
+      "kind": "image",
+      "alt": "Modular dungeon kit"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/kate_osita_/status/2120168979939701215",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120374859498967434",
+    "slug": "x-2120374859498967434",
+    "model": "minimax-h3-image",
+    "title": "Painterly world concepts",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "绘画风格世界概念",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "絵画風の世界観デザイン",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/whorange__/status/2120374859498967434",
+      "author": "@whorange__",
+      "modelEvidenceUrl": "https://x.com/whorange__/status/2120374859498967434"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/b4f7808684ced99a3b4897a1a94bac345f7ee8745e618afe851c88e82b5ead05.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HW0VoDfbEAA19w5.jpg?name=orig",
+      "sha256": "b4f7808684ced99a3b4897a1a94bac345f7ee8745e618afe851c88e82b5ead05",
+      "width": 2200,
+      "height": 1754,
+      "kind": "image",
+      "alt": "Painterly world concepts"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/whorange__/status/2120374859498967434",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/ae91dde1a84b70c14269f89311ab2cf2db4a1a68faac77940e512893e76689c9.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW0VoDsacAAOhq5.jpg?name=orig",
+        "sha256": "ae91dde1a84b70c14269f89311ab2cf2db4a1a68faac77940e512893e76689c9",
+        "width": 2200,
+        "height": 1754,
+        "kind": "image",
+        "alt": "Painterly world concepts"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/59c5ae61a88d0bfb79c11807b06b7e32c01b292f6423fa2a0c202e556b58231f.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW0VoDhaEAApLaX.jpg?name=orig",
+        "sha256": "59c5ae61a88d0bfb79c11807b06b7e32c01b292f6423fa2a0c202e556b58231f",
+        "width": 2200,
+        "height": 943,
+        "kind": "image",
+        "alt": "Painterly world concepts"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120169219841306719",
+    "slug": "x-2120169219841306719",
+    "model": "minimax-h3-image",
+    "title": "Bird wing anatomy",
+    "category": "Typography",
+    "translations": {
+      "zh": {
+        "title": "鸟翼解剖图",
+        "category": "文字排版"
+      },
+      "ja": {
+        "title": "鳥の翼の解剖図",
+        "category": "文字とレイアウト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/tylerrwayne/status/2120169219841306719",
+      "author": "@tylerrwayne",
+      "modelEvidenceUrl": "https://x.com/tylerrwayne/status/2120169219841306719"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/73ae2bc2cf29616de1e48ab3166ead3611e0108397159be6ed833d811fbefc40.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxaq2oaEAEMXbd.jpg?name=orig",
+      "sha256": "73ae2bc2cf29616de1e48ab3166ead3611e0108397159be6ed833d811fbefc40",
+      "width": 1280,
+      "height": 722,
+      "kind": "image",
+      "alt": "Bird wing anatomy"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/tylerrwayne/status/2120169219841306719",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2119909749177168178",
+    "slug": "x-2119909749177168178",
+    "model": "minimax-h3-image",
+    "title": "Retro Egyptian game worlds",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "复古埃及游戏场景",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "レトロなエジプトのゲーム世界",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/Aneeza__S/status/2119909749177168178",
+      "author": "@Aneeza__S",
+      "modelEvidenceUrl": "https://x.com/Aneeza__S/status/2119909749177168178"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/36262808542a4ad3008ed06266c62b7fbac4cbba06dfa5509d21f19bb0ee0420.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWtuoYnaYAAnsns.jpg?name=orig",
+      "sha256": "36262808542a4ad3008ed06266c62b7fbac4cbba06dfa5509d21f19bb0ee0420",
+      "width": 2200,
+      "height": 1242,
+      "kind": "image",
+      "alt": "Retro Egyptian game worlds"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/Aneeza__S/status/2119909749177168178",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/618899476cfdee5c7c54a26a30355a3cf4b851d50248606020d5ee62017f7287.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWtuqT2aoAAcJiy.jpg?name=orig",
+        "sha256": "618899476cfdee5c7c54a26a30355a3cf4b851d50248606020d5ee62017f7287",
+        "width": 2200,
+        "height": 1242,
+        "kind": "image",
+        "alt": "Retro Egyptian game worlds"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/15918c85b6ffaa35b39d30934306b61a343045d3d21baab797f759b6c3ce1aff.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWturG-bYAA5Glf.jpg?name=orig",
+        "sha256": "15918c85b6ffaa35b39d30934306b61a343045d3d21baab797f759b6c3ce1aff",
+        "width": 2200,
+        "height": 1242,
+        "kind": "image",
+        "alt": "Retro Egyptian game worlds"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120376588877680955",
+    "slug": "x-2120376588877680955",
+    "model": "minimax-h3-image",
+    "title": "Japanese fantasy architecture",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "日式幻想建筑",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "日本風の幻想建築",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/harboriis/status/2120376588877680955",
+      "author": "@harboriis",
+      "modelEvidenceUrl": "https://x.com/harboriis/status/2120376588877680955"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/9d52b237c7b30c78e0a2fd94d3d86e73ecc340a8e81917f6ec7b743218589efe.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HW0XNdlbcAA_hn5.jpg?name=orig",
+      "sha256": "9d52b237c7b30c78e0a2fd94d3d86e73ecc340a8e81917f6ec7b743218589efe",
+      "width": 2200,
+      "height": 1235,
+      "kind": "image",
+      "alt": "Japanese fantasy architecture"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/harboriis/status/2120376588877680955",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/2478da2ac4f922bdf24b68fd9cffe0011ca9668e405070096668e2060f1928c8.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW0XNdZaAAA-BK3.jpg?name=orig",
+        "sha256": "2478da2ac4f922bdf24b68fd9cffe0011ca9668e405070096668e2060f1928c8",
+        "width": 2200,
+        "height": 1235,
+        "kind": "image",
+        "alt": "Japanese fantasy architecture"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120013638253834538",
+    "slug": "x-2120013638253834538",
+    "model": "minimax-h3-image",
+    "title": "Product technical posters",
+    "category": "Typography",
+    "translations": {
+      "zh": {
+        "title": "产品技术图解海报",
+        "category": "文字排版"
+      },
+      "ja": {
+        "title": "製品の技術図解ポスター",
+        "category": "文字とレイアウト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/visualaeonart/status/2120013638253834538",
+      "author": "@visualaeonart",
+      "modelEvidenceUrl": "https://x.com/visualaeonart/status/2120013638253834538"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/538bd60c705782f0f01bb98e48565259326a4b619aca04ff66a30916906e9619.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWvNIJZbwAAcJCb.jpg?name=orig",
+      "sha256": "538bd60c705782f0f01bb98e48565259326a4b619aca04ff66a30916906e9619",
+      "width": 1467,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Product technical posters"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/visualaeonart/status/2120013638253834538",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/8c493019a7be76ccf6b214b0f2eba62fb91caf8da7dac0e206479fe1a458edc9.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWvNJDga4AAr7eJ.jpg?name=orig",
+        "sha256": "8c493019a7be76ccf6b214b0f2eba62fb91caf8da7dac0e206479fe1a458edc9",
+        "width": 1467,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Product technical posters"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/8accea4239fb9ec7cdf0ffb7f4ccd36d5780511412a2e76c7e1545180df638f4.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWvNJ8BbQAAWWQg.jpg?name=orig",
+        "sha256": "8accea4239fb9ec7cdf0ffb7f4ccd36d5780511412a2e76c7e1545180df638f4",
+        "width": 1467,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Product technical posters"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120165663973237051",
+    "slug": "x-2120165663973237051",
+    "model": "minimax-h3-image",
+    "title": "Microscopic organisms",
+    "category": "Typography",
+    "translations": {
+      "zh": {
+        "title": "微观生物图鉴",
+        "category": "文字排版"
+      },
+      "ja": {
+        "title": "微生物の図鑑",
+        "category": "文字とレイアウト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/CurieuxExplorer/status/2120165663973237051",
+      "author": "@CurieuxExplorer",
+      "modelEvidenceUrl": "https://x.com/CurieuxExplorer/status/2120165663973237051"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/631f6f80fefaa3904aa603530799c9188b601cc0b20417b4122849a2d11bc7aa.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxUUO-bwAEnsbo.jpg?name=orig",
+      "sha256": "631f6f80fefaa3904aa603530799c9188b601cc0b20417b4122849a2d11bc7aa",
+      "width": 2048,
+      "height": 2048,
+      "kind": "image",
+      "alt": "Microscopic organisms"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/CurieuxExplorer/status/2120165663973237051",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2119988427332743257",
+    "slug": "x-2119988427332743257",
+    "model": "minimax-h3-image",
+    "title": "Fantasy game environments",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "奇幻游戏环境",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "幻想的なゲーム環境",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/musicTube135/status/2119988427332743257",
+      "author": "@musicTube135",
+      "modelEvidenceUrl": "https://x.com/musicTube135/status/2119988427332743257"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/796374f5664f66d02bf32147fd6105304cad692830828fe72f049fbe8a8f81c7.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWuzon3a0AEeAyI.jpg?name=orig",
+      "sha256": "796374f5664f66d02bf32147fd6105304cad692830828fe72f049fbe8a8f81c7",
+      "width": 2200,
+      "height": 1242,
+      "kind": "image",
+      "alt": "Fantasy game environments"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/musicTube135/status/2119988427332743257",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/8a74038246c285d834c27c70b2b65acd28e135934fca88f7575c234b89946a2a.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWuzon2bkAAfcZJ.jpg?name=orig",
+        "sha256": "8a74038246c285d834c27c70b2b65acd28e135934fca88f7575c234b89946a2a",
+        "width": 2200,
+        "height": 1242,
+        "kind": "image",
+        "alt": "Fantasy game environments"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/f51c8f6b24ee572f2584f90fba4c3853ad8df14c14a6cc205c326297c1d9183c.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWuzon4a8AEaz0k.jpg?name=orig",
+        "sha256": "f51c8f6b24ee572f2584f90fba4c3853ad8df14c14a6cc205c326297c1d9183c",
+        "width": 2200,
+        "height": 1242,
+        "kind": "image",
+        "alt": "Fantasy game environments"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/72c5b94e3f45528c9803735f7a7ad4c165cd871f388739ae990d86386aac9839.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWuzomCbEAAp8uF.jpg?name=orig",
+        "sha256": "72c5b94e3f45528c9803735f7a7ad4c165cd871f388739ae990d86386aac9839",
+        "width": 2200,
+        "height": 1242,
+        "kind": "image",
+        "alt": "Fantasy game environments"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120260732403294615",
+    "slug": "x-2120260732403294615",
+    "model": "minimax-h3-image",
+    "title": "Quiet night portraits",
+    "category": "Photography",
+    "translations": {
+      "zh": {
+        "title": "静谧夜晚的人像",
+        "category": "摄影"
+      },
+      "ja": {
+        "title": "静かな夜のポートレート",
+        "category": "写真"
+      }
+    },
+    "source": {
+      "url": "https://x.com/HBCoop_/status/2120260732403294615",
+      "author": "@HBCoop_",
+      "modelEvidenceUrl": "https://x.com/HBCoop_/status/2120260732403294615"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/eab8f18b43990a876019ab273d89e489fc0560c1afe7e5d78eeea0a58038facc.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWyt4ppbsAAO3bA.jpg?name=orig",
+      "sha256": "eab8f18b43990a876019ab273d89e489fc0560c1afe7e5d78eeea0a58038facc",
+      "width": 1766,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Quiet night portraits"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/HBCoop_/status/2120260732403294615",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/a227bbc8fb998fc06dec1cb70e4d0352cf0039797e1bacc65c2ce2c94565925d.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWyt4-mbUAAZKKS.jpg?name=orig",
+        "sha256": "a227bbc8fb998fc06dec1cb70e4d0352cf0039797e1bacc65c2ce2c94565925d",
+        "width": 1766,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Quiet night portraits"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/6501ab0076d8e0a4744a03f7087244f57b07e9a6fea17b35b842247d4aad9f24.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWyt5RGa0AAXEt-.jpg?name=orig",
+        "sha256": "6501ab0076d8e0a4744a03f7087244f57b07e9a6fea17b35b842247d4aad9f24",
+        "width": 1766,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Quiet night portraits"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/536183c2fe4a576a72534cec465c1a3460d5127afa5eee03b5840d273d5c21ad.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWyt5ixa4AAZkZ4.jpg?name=orig",
+        "sha256": "536183c2fe4a576a72534cec465c1a3460d5127afa5eee03b5840d273d5c21ad",
+        "width": 1766,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Quiet night portraits"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120008454605877501",
+    "slug": "x-2120008454605877501",
+    "model": "minimax-h3-image",
+    "title": "Everyday portrait studies",
+    "category": "Photography",
+    "translations": {
+      "zh": {
+        "title": "日常人像摄影",
+        "category": "摄影"
+      },
+      "ja": {
+        "title": "日常のポートレート",
+        "category": "写真"
+      }
+    },
+    "source": {
+      "url": "https://x.com/underwoodxie96/status/2120008454605877501",
+      "author": "@underwoodxie96",
+      "modelEvidenceUrl": "https://x.com/underwoodxie96/status/2120008454605877501"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/f328ec90b015dce7d2e64bc64d4ee181ba77e040f4c344e48f50e5fa6fa7a1b7.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWvGk7VaYAAQcaN.jpg?name=orig",
+      "sha256": "f328ec90b015dce7d2e64bc64d4ee181ba77e040f4c344e48f50e5fa6fa7a1b7",
+      "width": 768,
+      "height": 1376,
+      "kind": "image",
+      "alt": "Everyday portrait studies"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/underwoodxie96/status/2120008454605877501",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/0e1716f89d785beff1d6bc1a9976a0303cc4cd70eda23612ca5b3973f84dc6e3.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWvGk5lbQAAByAw.jpg?name=orig",
+        "sha256": "0e1716f89d785beff1d6bc1a9976a0303cc4cd70eda23612ca5b3973f84dc6e3",
+        "width": 768,
+        "height": 1376,
+        "kind": "image",
+        "alt": "Everyday portrait studies"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/7b24088b652346d36d5c616a14b7bb98893a09ef1ee9a263fcff967f28362d33.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWvGtEcaEAAHr-3.jpg?name=orig",
+        "sha256": "7b24088b652346d36d5c616a14b7bb98893a09ef1ee9a263fcff967f28362d33",
+        "width": 768,
+        "height": 1376,
+        "kind": "image",
+        "alt": "Everyday portrait studies"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/2e52364c64a94ff58dc4f321c4492516ee70ce9d86bd3c0cad37e854c13de516.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWvHfMibUAABGhJ.jpg?name=orig",
+        "sha256": "2e52364c64a94ff58dc4f321c4492516ee70ce9d86bd3c0cad37e854c13de516",
+        "width": 768,
+        "height": 1376,
+        "kind": "image",
+        "alt": "Everyday portrait studies"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120093771790528718",
+    "slug": "x-2120093771790528718",
+    "model": "minimax-h3-image",
+    "title": "Iridescent glass retexturing",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "虹彩玻璃材质重绘",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "虹色ガラスへの質感変更",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://x.com/egeberkina/status/2120093771790528718",
+      "author": "@egeberkina",
+      "modelEvidenceUrl": "https://x.com/egeberkina/status/2120093771790528718"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/a04afff8b3adf9716d1a06c860f70875c4f5c30dcc8a6823b4c83a24ee5b1875.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWwU7aDWAAA91Xy.jpg?name=orig",
+      "sha256": "a04afff8b3adf9716d1a06c860f70875c4f5c30dcc8a6823b4c83a24ee5b1875",
+      "width": 1635,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Iridescent glass retexturing"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/egeberkina/status/2120093771790528718",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/39f09e9e7a544690bf028b5c13dde9d5a2540ecc6ad5d3d4a173ed2fe46593d8.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWwU8X4WMAAULFI.jpg?name=orig",
+        "sha256": "39f09e9e7a544690bf028b5c13dde9d5a2540ecc6ad5d3d4a173ed2fe46593d8",
+        "width": 1635,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Iridescent glass retexturing"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/80b3b1853aa512eeb71894da9c4a316906206514feda5411a756924413f093ad.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWwU9g1WgAA_iW-.jpg?name=orig",
+        "sha256": "80b3b1853aa512eeb71894da9c4a316906206514feda5411a756924413f093ad",
+        "width": 1635,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Iridescent glass retexturing"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/afae125234bf3802ce04f20ec7928c80daeda579d54d5876082ca6461f707662.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWwU-SvXoAAQu7v.jpg?name=orig",
+        "sha256": "afae125234bf3802ce04f20ec7928c80daeda579d54d5876082ca6461f707662",
+        "width": 1635,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Iridescent glass retexturing"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120422418972062106",
+    "slug": "x-2120422418972062106",
+    "model": "minimax-h3-image",
+    "title": "Handcrafted still-life paintings",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "手工艺静物绘画",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "工芸品の静物画",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/minstorylab01/status/2120422418972062106",
+      "author": "@minstorylab01",
+      "modelEvidenceUrl": "https://x.com/minstorylab01/status/2120422418972062106"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/ad52908202394e83811e5327703363ee4ed9579c2bdbf23381d46b5e15911098.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HW1A2axaQAAujwd.jpg?name=orig",
+      "sha256": "ad52908202394e83811e5327703363ee4ed9579c2bdbf23381d46b5e15911098",
+      "width": 2200,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Handcrafted still-life paintings"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/minstorylab01/status/2120422418972062106",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/727b239347453d5c15539c99c74aa1f55b5b3d21aa0588041db084b0854a75bc.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW1A5LKakAA8HOt.jpg?name=orig",
+        "sha256": "727b239347453d5c15539c99c74aa1f55b5b3d21aa0588041db084b0854a75bc",
+        "width": 2200,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Handcrafted still-life paintings"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/8427ba5f589aa60e70ff6c368014b3f177fa4437b98da2699370ba5c6528bccb.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW1A5LQbQAEMEkf.jpg?name=orig",
+        "sha256": "8427ba5f589aa60e70ff6c368014b3f177fa4437b98da2699370ba5c6528bccb",
+        "width": 2200,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Handcrafted still-life paintings"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/5399c5c0d6a1f90648d99b67b68fad0d663ded0dcd643fc3001e83ffa7ddfd5f.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW1A8QcaUAEEelP.jpg?name=orig",
+        "sha256": "5399c5c0d6a1f90648d99b67b68fad0d663ded0dcd643fc3001e83ffa7ddfd5f",
+        "width": 2200,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Handcrafted still-life paintings"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120157838915907731",
+    "slug": "x-2120157838915907731",
+    "model": "minimax-h3-image",
+    "title": "Creature escapes an ID badge",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "证件卡里破框而出的生物",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "IDカードから飛び出す生物",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/nonameoasis/status/2120157838915907731",
+      "author": "@nonameoasis",
+      "modelEvidenceUrl": "https://x.com/nonameoasis/status/2120157838915907731"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/aa6589e553c75d817015b0ed5dffab1f2b20610cfae4ab82a9d4dbba1eb94f3b.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxQSFSXYAArLIU.jpg?name=orig",
+      "sha256": "aa6589e553c75d817015b0ed5dffab1f2b20610cfae4ab82a9d4dbba1eb94f3b",
+      "width": 1235,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Creature escapes an ID badge"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/nonameoasis/status/2120157838915907731",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/bfdee8cf15dff7d7e1aa6e87a2f2c5b22bcd36a54fb60063aac376e1ff7ddd2c.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWxQSFPXAAEVzpF.jpg?name=orig",
+        "sha256": "bfdee8cf15dff7d7e1aa6e87a2f2c5b22bcd36a54fb60063aac376e1ff7ddd2c",
+        "width": 1235,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Creature escapes an ID badge"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/3a0e9473ff45bb18a1d6611c9bdf42cb502a5f296cc660f97393021287186518.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWxQSFPWcAAl3gt.jpg?name=orig",
+        "sha256": "3a0e9473ff45bb18a1d6611c9bdf42cb502a5f296cc660f97393021287186518",
+        "width": 1235,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Creature escapes an ID badge"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120124471042281685",
+    "slug": "x-2120124471042281685",
+    "model": "minimax-h3-image",
+    "title": "Reference-driven F1 poster",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "参考图驱动的 F1 海报",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "参照画像から作るF1ポスター",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://x.com/JaynitMakwana/status/2120124471042281685",
+      "author": "@JaynitMakwana",
+      "modelEvidenceUrl": "https://x.com/JaynitMakwana/status/2120124471042281685"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/af27b581e02d39d653f5625cb37fe856b0a6013703494f51c875a17a02bb6c90.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWwx92CacAABBxR.jpg?name=orig",
+      "sha256": "af27b581e02d39d653f5625cb37fe856b0a6013703494f51c875a17a02bb6c90",
+      "width": 951,
+      "height": 1280,
+      "kind": "image",
+      "alt": "Reference-driven F1 poster"
+    },
+    "references": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/49a40907f4e48e4d19eba02a2e44f0d0dcc4b5c1f82121ff687c4beb39e6d669.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWwx93FbkAAY8FT.jpg?name=orig",
+        "sha256": "49a40907f4e48e4d19eba02a2e44f0d0dcc4b5c1f82121ff687c4beb39e6d669",
+        "width": 853,
+        "height": 1280,
+        "kind": "image",
+        "alt": "Reference-driven F1 poster · reference input"
+      }
+    ],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/JaynitMakwana/status/2120124471042281685",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
     "id": "li-4",
     "slug": "li-4",
     "model": "minimax-h3-image",
@@ -670,8 +2512,9 @@
     },
     "source": {
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "author": "MiniMax",
-      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+      "author": "@MiniMax_AI",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "authorUrl": "https://x.com/MiniMax_AI"
     },
     "output": {
       "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/72109156235cdb2bac86fc1b2198fecfcbccb33ca099084af425f9de638cbea5.webp",
@@ -713,8 +2556,9 @@
     },
     "source": {
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "author": "MiniMax",
-      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+      "author": "@MiniMax_AI",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "authorUrl": "https://x.com/MiniMax_AI"
     },
     "output": {
       "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/5309245014d939bcfaaade6cfd5381286db40e0a4aa596971ea10bfe0b81d6a7.webp",
@@ -756,8 +2600,9 @@
     },
     "source": {
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "author": "MiniMax",
-      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+      "author": "@MiniMax_AI",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "authorUrl": "https://x.com/MiniMax_AI"
     },
     "output": {
       "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/003b7ce7699434de14cf56d954002521783551dfc427328116ad71c0f4e92e65.webp",
@@ -799,8 +2644,9 @@
     },
     "source": {
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "author": "MiniMax",
-      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+      "author": "@MiniMax_AI",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "authorUrl": "https://x.com/MiniMax_AI"
     },
     "output": {
       "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/1a1b665e1ef772acb0789149780007f36b995c340422eae507d0fb81368a5b6b.webp",
@@ -842,8 +2688,9 @@
     },
     "source": {
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "author": "MiniMax",
-      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+      "author": "@MiniMax_AI",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "authorUrl": "https://x.com/MiniMax_AI"
     },
     "output": {
       "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/932489a2c96280320e03e340d991719010c5cd35e2967cc22f16edf6b4700504.webp",
@@ -885,8 +2732,9 @@
     },
     "source": {
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "author": "MiniMax",
-      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+      "author": "@MiniMax_AI",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "authorUrl": "https://x.com/MiniMax_AI"
     },
     "output": {
       "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/ae0b61252020f370d25f765734179948cb75aeca845ec983ffb0daf8d88c8f2b.webp",
@@ -928,8 +2776,9 @@
     },
     "source": {
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "author": "MiniMax",
-      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+      "author": "@MiniMax_AI",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "authorUrl": "https://x.com/MiniMax_AI"
     },
     "output": {
       "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/c7c0769954ac2b01a56fb1cb8dec49988840ddee72b2770939c59e55c88da118.webp",
@@ -971,8 +2820,9 @@
     },
     "source": {
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "author": "MiniMax",
-      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+      "author": "@MiniMax_AI",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "authorUrl": "https://x.com/MiniMax_AI"
     },
     "output": {
       "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/cf2343601f1652f2cb24fa5f2e71d0c11b9555c1e215e20ee4ae0f11ebf9787b.webp",
@@ -1014,8 +2864,9 @@
     },
     "source": {
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "author": "MiniMax",
-      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+      "author": "@MiniMax_AI",
+      "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "authorUrl": "https://x.com/MiniMax_AI"
     },
     "output": {
       "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/d23386544cd8f71cd4d20b7588b7d02cc9057186dc5409bdd19f551cdd0606a8.webp",

@@ -17,9 +17,10 @@
     },
     "source": {
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "author": "MiniMax",
+      "author": "@MiniMax_AI",
       "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "promptEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/blob/main/examples/instruction.t2i.txt"
+      "promptEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/blob/main/examples/instruction.t2i.txt",
+      "authorUrl": "https://x.com/MiniMax_AI"
     },
     "output": {
       "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/db481a79a8e13f21323d0f02b87072cc70a43d08a9e29f23657fb089d7220269.webp",
@@ -60,9 +61,10 @@
     },
     "source": {
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "author": "MiniMax",
+      "author": "@MiniMax_AI",
       "modelEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "promptEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/blob/main/examples/instruction.edit.txt"
+      "promptEvidenceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/blob/main/examples/instruction.edit.txt",
+      "authorUrl": "https://x.com/MiniMax_AI"
     },
     "output": {
       "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/b0762a30f62d4c6ba0dd8a9a196ce6ac490b55c61bc7beb317836fd86b691448.webp",
@@ -94,5 +96,161 @@
     "originalPrompt": "Take the over-ear headphones off the man on the left and fill in his hair where the band flattened it. Have both hosts lean toward each other and fist-bump directly above the \"MONEY TALKS\" desk sign, knuckles touching, elbows lifted off the desk, so the bump sits dead centre between the two microphones.",
     "referenceRequirement": "included",
     "settingsNote": "Official workflow comparison: local SGLang uses the expanded prompt; the MiniMax API uses the original instruction. See the linked source for the expansion step."
+  },
+  {
+    "id": "x-2120158081187262682",
+    "slug": "x-2120158081187262682",
+    "model": "minimax-h3-image",
+    "title": "Cyberpunk courier in Tokyo",
+    "category": "Photography",
+    "translations": {
+      "zh": {
+        "title": "东京赛博朋克信使",
+        "category": "摄影"
+      },
+      "ja": {
+        "title": "東京のサイバーパンク配達員",
+        "category": "写真"
+      }
+    },
+    "source": {
+      "url": "https://x.com/PrometheanAIX/status/2120158081187262682",
+      "author": "@PrometheanAIX",
+      "modelEvidenceUrl": "https://x.com/PrometheanAIX/status/2120158081187262682",
+      "promptEvidenceUrl": "https://x.com/PrometheanAIX/status/2120158081187262682"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/17ee94f9d03a49f15a6eae38e779def15ae67c30f4ebe5dcd7a6daa3c4037f57.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxQUGvWkAAycnU.jpg?name=orig",
+      "sha256": "17ee94f9d03a49f15a6eae38e779def15ae67c30f4ebe5dcd7a6daa3c4037f57",
+      "width": 1635,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Cyberpunk courier in Tokyo"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/PrometheanAIX/status/2120158081187262682",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "variant": "MiniMax H3 Image",
+    "originalPrompt": "Ultra-realistic cinematic portrait of a male cyberpunk courier sprinting through a futuristic Tokyo street. The camera is two feet above the sidewalk, ten feet away, angled upward. He leans aggressively forward, almost 45 degrees, eyes focused ahead, not at the camera. Spiky hair rendered photorealistically, technical runner's clothing with subtle cyan and magenta accents. The city feels modern and futuristic, but not dirty or grim, restrained neon glow, dynamic motion, shallow depth of field. Three-by-four aspect ratio.",
+    "referenceRequirement": "none"
+  },
+  {
+    "id": "x-2120191390797930765",
+    "slug": "x-2120191390797930765",
+    "model": "minimax-h3-image",
+    "title": "Sandwich repair attempt",
+    "category": "Image editing",
+    "translations": {
+      "zh": {
+        "title": "三明治拼合编辑尝试",
+        "category": "图片编辑"
+      },
+      "ja": {
+        "title": "サンドイッチの復元編集の試み",
+        "category": "画像編集"
+      }
+    },
+    "source": {
+      "url": "https://x.com/amrstech/status/2120191390797930765",
+      "author": "@amrstech",
+      "modelEvidenceUrl": "https://x.com/amrstech/status/2120191390797930765",
+      "promptEvidenceUrl": "https://x.com/amrstech/status/2120191390797930765"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/a9a7a3493310161dc47cc9e44377d2f0c68e7a0671b3d8aed2b9ff4cf286dbec.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxu0-iaMAADhnV.jpg?name=orig",
+      "sha256": "a9a7a3493310161dc47cc9e44377d2f0c68e7a0671b3d8aed2b9ff4cf286dbec",
+      "width": 1536,
+      "height": 2048,
+      "kind": "image",
+      "alt": "Sandwich repair attempt"
+    },
+    "references": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/d024fb54764b65f039c00d5ad9086b4e79c9d4f5fe65ecf90c9e08e744504d06.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWxu0OJaIAY1JBL.jpg?name=orig",
+        "sha256": "d024fb54764b65f039c00d5ad9086b4e79c9d4f5fe65ecf90c9e08e744504d06",
+        "width": 1650,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Sandwich repair attempt · reference input"
+      }
+    ],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/amrstech/status/2120191390797930765",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "variant": "MiniMax H3 Image",
+    "originalPrompt": "Join and make it a while original realistic sandwich. There must be no cuts , it must be whole as before split.",
+    "referenceRequirement": "included"
+  },
+  {
+    "id": "x-2120180332833976422",
+    "slug": "x-2120180332833976422",
+    "model": "minimax-h3-image",
+    "title": "Moonlit library in Arabic",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "阿拉伯语提示词的月光图书馆",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "アラビア語で描く月明かりの図書館",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/Malzahran2/status/2120180332833976422",
+      "author": "@Malzahran2",
+      "modelEvidenceUrl": "https://x.com/Malzahran2/status/2120180332833976422",
+      "promptEvidenceUrl": "https://x.com/Malzahran2/status/2120180332833976422"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/10fd3e72444853872de03e558e81aa4191b0c04a3f3364d051cc3ec71a1a9615.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxkuljWUAA4zqf.jpg?name=orig",
+      "sha256": "10fd3e72444853872de03e558e81aa4191b0c04a3f3364d051cc3ec71a1a9615",
+      "width": 2200,
+      "height": 1235,
+      "kind": "image",
+      "alt": "Moonlit library in Arabic"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post archived 2026-11-11.",
+      "evidenceUrl": "https://x.com/Malzahran2/status/2120180332833976422",
+      "note": "Third-party images and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/4699e1ec91ee00da0d825471ec9e6bc6ba083b79810f3dd9cb245372669b5ecb.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWxkulkXwAAZ4L5.jpg?name=orig",
+        "sha256": "4699e1ec91ee00da0d825471ec9e6bc6ba083b79810f3dd9cb245372669b5ecb",
+        "width": 2200,
+        "height": 1235,
+        "kind": "image",
+        "alt": "Moonlit library in Arabic"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/f7727addcec8dfc141821b814a2c699e14c02c73cb67562591c794b19d11e49e.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HWxkulnXUAA2i_M.jpg?name=orig",
+        "sha256": "f7727addcec8dfc141821b814a2c699e14c02c73cb67562591c794b19d11e49e",
+        "width": 2200,
+        "height": 1235,
+        "kind": "image",
+        "alt": "Moonlit library in Arabic"
+      }
+    ],
+    "variant": "MiniMax H3 Image",
+    "originalPrompt": "غرفة مكتبة قديمة ضخمة في الليل، ضوء قمر يدخل من نافذة كبيرة مكسورة، فتاة تجلس على الأرض محاطة بكتب مفتوحة طائرة في الهواء (حوالي 15 كتاب)، كل كتاب مفتوح على صفحة مختلفة فيها رسومات وخطوط، قطة بيضاء تقفز من كتاب إلى آخر، الغبار يتطاير في شعاع الضوء، تفاصيل الخشب القديم والورق الممزق واضحة جدًا، إضاءة درامية عالية التباين.",
+    "referenceRequirement": "none"
   }
 ]
