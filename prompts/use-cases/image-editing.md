@@ -201,3 +201,6 @@ Image showcase. See the original post for prompts and workflow details.
 Image showcase. See the original post for prompts and workflow details.
 
 ---
+
+
+[Website gallery](https://beatapi.io/minimax-h3-image-prompts) · [BeatAPI home](https://beatapi.io)

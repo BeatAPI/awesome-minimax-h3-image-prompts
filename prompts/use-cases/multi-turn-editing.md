@@ -23,3 +23,6 @@ MiniMax H3 Image / Seedream 5.5 / GPT Image 2.5
 Image showcase. See the original post for prompts and workflow details.
 
 ---
+
+
+[Website gallery](https://beatapi.io/minimax-h3-image-prompts) · [BeatAPI home](https://beatapi.io)

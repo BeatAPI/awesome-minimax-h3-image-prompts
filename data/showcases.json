@@ -2889,5 +2889,154 @@
     ],
     "comparison": false,
     "preview": true
+  },
+  {
+    "id": "x-2120457026002423845",
+    "slug": "x-2120457026002423845",
+    "model": "minimax-h3-image",
+    "title": "Hover-bike concept and engineering views",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "悬浮摩托概念与工程视图",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "ホバーバイクのコンセプトと設計図",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/Fujimoto_hina/status/2120457026002423845",
+      "author": "@Fujimoto_hina",
+      "modelEvidenceUrl": "https://x.com/Fujimoto_hina/status/2120457026002423845"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/0fa06643779175fc45a8806688c72c2bedbf0c6359a36b8401e27f5c8bbdb157.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HW1gR5jaAAACAk4.jpg?name=large",
+      "sha256": "0fa06643779175fc45a8806688c72c2bedbf0c6359a36b8401e27f5c8bbdb157",
+      "width": 2200,
+      "height": 1235,
+      "kind": "image",
+      "alt": "Hover-bike concept and engineering views"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post and attached media checked through BeatAPI Social Data on 2026-11-11.",
+      "evidenceUrl": "https://x.com/Fujimoto_hina/status/2120457026002423845",
+      "note": "Third-party media and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/292d3a17c7f8da5ecb63ccc8632536a0c4059900d65a813abf54993d07278194.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW1gR4vbUAINaJj.jpg?name=large",
+        "sha256": "292d3a17c7f8da5ecb63ccc8632536a0c4059900d65a813abf54993d07278194",
+        "width": 2200,
+        "height": 1235,
+        "kind": "image",
+        "alt": "Hover-bike concept and engineering views"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/1fa0663c906e64aa7aa359d077743fd1253700f94fb6348e6147cfaa80bed553.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW1gR5DaYAATl7u.jpg?name=large",
+        "sha256": "1fa0663c906e64aa7aa359d077743fd1253700f94fb6348e6147cfaa80bed553",
+        "width": 2200,
+        "height": 1235,
+        "kind": "image",
+        "alt": "Hover-bike concept and engineering views"
+      }
+    ],
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120459468769317037",
+    "slug": "x-2120459468769317037",
+    "model": "minimax-h3-image",
+    "title": "Handcrafted woodland adventure",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "手工风森林冒险",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "手作り風の森の冒険",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/PixelMindAI_/status/2120459468769317037",
+      "author": "@PixelMindAI_",
+      "modelEvidenceUrl": "https://x.com/PixelMindAI_/status/2120459468769317037"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/99843d53c72cc318512408cf30570fe196af9b73a7ea19e9e2d7f40c52eb9e78.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HW1ioMhbwAAn9_d.jpg?name=large",
+      "sha256": "99843d53c72cc318512408cf30570fe196af9b73a7ea19e9e2d7f40c52eb9e78",
+      "width": 2200,
+      "height": 1467,
+      "kind": "image",
+      "alt": "Handcrafted woodland adventure"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post and attached media checked through BeatAPI Social Data on 2026-11-11.",
+      "evidenceUrl": "https://x.com/PixelMindAI_/status/2120459468769317037",
+      "note": "Third-party media and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120436717866057952",
+    "slug": "x-2120436717866057952",
+    "model": "minimax-h3-image",
+    "title": "Cave stairway environment study",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "洞穴石阶环境设计",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "洞窟の石段の環境デザイン",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/PixelMindAI_/status/2120436717866057952",
+      "author": "@PixelMindAI_",
+      "modelEvidenceUrl": "https://x.com/PixelMindAI_/status/2120436717866057952"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/minimax-h3-image/8c8a43e389e25ea61b7e90c218a76fa1382eb39ed454b7bc1eee5f33991db1e0.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HW1N6P6acAAg_sa.jpg?name=large",
+      "sha256": "8c8a43e389e25ea61b7e90c218a76fa1382eb39ed454b7bc1eee5f33991db1e0",
+      "width": 853,
+      "height": 1280,
+      "kind": "image",
+      "alt": "Cave stairway environment study"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post and attached media checked through BeatAPI Social Data on 2026-11-11.",
+      "evidenceUrl": "https://x.com/PixelMindAI_/status/2120436717866057952",
+      "note": "Third-party media and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "MiniMax H3 Image"
+    ],
+    "comparison": false,
+    "preview": true
   }
 ]

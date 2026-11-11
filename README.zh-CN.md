@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="./assets/readme-hero.webp" alt="MiniMax H3 Image Prompt Gallery by BeatAPI" width="100%" />
+  <a href="https://beatapi.io/zh"><img src="./assets/readme-hero-v2.png" alt="MiniMax H3 Image Prompt Gallery by BeatAPI" width="100%" /></a>
 </p>
 
 # Awesome MiniMax H3 Image Prompts
 
 MiniMax H3 Image 图片、提示词与编辑参考，由 [BeatAPI](https://beatapi.io/zh) 整理。
 
-**[浏览网站案例库](https://beatapi.io/zh/minimax-h3-image-prompts)** · **[H3 视频案例库](https://github.com/BeatAPI/awesome-minimax-h3-prompts)** · **[English](./README.md)** · **[贡献案例](https://github.com/BeatAPI/awesome-minimax-h3-image-prompts/issues/new?template=prompt.yml)**
+**[BeatAPI 首页](https://beatapi.io/zh)** · **[浏览网站案例库](https://beatapi.io/zh/minimax-h3-image-prompts)** · **[H3 视频案例库](https://github.com/BeatAPI/awesome-minimax-h3-prompts)** · **[English](./README.md)** · **[贡献案例](https://github.com/BeatAPI/awesome-minimax-h3-image-prompts/issues/new?template=prompt.yml)**
 
-**60 组案例 · 106 张结果图 · 10 张参考输入。** 包含 5 组完整提示词案例和 55 组作品展示。
+**63 组案例 · 111 张结果图 · 10 张参考输入。** 包含 5 组完整提示词案例和 58 组作品展示。
 
-**按用途浏览：** [Official workflows](./prompts/use-cases/official-workflows.md) · [Photography](./prompts/use-cases/photography.md) · [Image editing](./prompts/use-cases/image-editing.md) · [Art & illustration](./prompts/use-cases/art-illustration.md) · [Typography](./prompts/use-cases/typography.md) · [Instruction following](./prompts/use-cases/instruction-following.md) · [Prompt comparison](./prompts/use-cases/prompt-comparison.md) · [Multi-turn editing](./prompts/use-cases/multi-turn-editing.md)
+**按用途浏览：** [官方流程](./prompts/use-cases/official-workflows.md) · [摄影](./prompts/use-cases/photography.md) · [图片编辑](./prompts/use-cases/image-editing.md) · [艺术与插画](./prompts/use-cases/art-illustration.md) · [文字排版](./prompts/use-cases/typography.md) · [指令遵循](./prompts/use-cases/instruction-following.md) · [提示词对比](./prompts/use-cases/prompt-comparison.md) · [多轮编辑](./prompts/use-cases/multi-turn-editing.md)
 
 ### 1. 农场餐桌 · 官方生成流程
 
@@ -764,13 +764,57 @@ MiniMax H3 Image / Seedream 5.5 / GPT Image 2.5
 
 ---
 
+### 61. 悬浮摩托概念与工程视图
+
+[@Fujimoto_hina](https://x.com/Fujimoto_hina/status/2120457026002423845)
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3-image/0fa06643779175fc45a8806688c72c2bedbf0c6359a36b8401e27f5c8bbdb157.webp"><img src="https://media.beatapi.io/prompt-gallery/minimax-h3-image/0fa06643779175fc45a8806688c72c2bedbf0c6359a36b8401e27f5c8bbdb157.webp" alt="Hover-bike concept and engineering views" width="340" /></a>
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3-image/292d3a17c7f8da5ecb63ccc8632536a0c4059900d65a813abf54993d07278194.webp"><img src="https://media.beatapi.io/prompt-gallery/minimax-h3-image/292d3a17c7f8da5ecb63ccc8632536a0c4059900d65a813abf54993d07278194.webp" alt="Hover-bike concept and engineering views" width="340" /></a>
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3-image/1fa0663c906e64aa7aa359d077743fd1253700f94fb6348e6147cfaa80bed553.webp"><img src="https://media.beatapi.io/prompt-gallery/minimax-h3-image/1fa0663c906e64aa7aa359d077743fd1253700f94fb6348e6147cfaa80bed553.webp" alt="Hover-bike concept and engineering views" width="340" /></a>
+
+作品展示，提示词与制作细节请看原帖。
+
+---
+
+### 62. 手工风森林冒险
+
+[@PixelMindAI_](https://x.com/PixelMindAI_/status/2120459468769317037)
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3-image/99843d53c72cc318512408cf30570fe196af9b73a7ea19e9e2d7f40c52eb9e78.webp"><img src="https://media.beatapi.io/prompt-gallery/minimax-h3-image/99843d53c72cc318512408cf30570fe196af9b73a7ea19e9e2d7f40c52eb9e78.webp" alt="Handcrafted woodland adventure" width="700" /></a>
+
+作品展示，提示词与制作细节请看原帖。
+
+---
+
+### 63. 洞穴石阶环境设计
+
+[@PixelMindAI_](https://x.com/PixelMindAI_/status/2120436717866057952)
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3-image/8c8a43e389e25ea61b7e90c218a76fa1382eb39ed454b7bc1eee5f33991db1e0.webp"><img src="https://media.beatapi.io/prompt-gallery/minimax-h3-image/8c8a43e389e25ea61b7e90c218a76fa1382eb39ed454b7bc1eee5f33991db1e0.webp" alt="Cave stairway environment study" width="700" /></a>
+
+作品展示，提示词与制作细节请看原帖。
+
+---
+
 ## 相关资源
 
 - [MiniMax H3 Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)
 - [Seedream 5.5 gallery](https://beatapi.io/zh/seedream-5-5-prompts)
 - [GPT Image 2.6 gallery](https://beatapi.io/zh/gpt-image-2-6-prompts)
-- [BeatAPI image models](https://beatapi.io/zh/models)
+- [BeatAPI image models](https://beatapi.io/zh/model)
 
 ## 素材与许可
 
 图片已转换为 WebP 并托管于 BeatAPI。原作者保留图片与提示词的权利；本仓库不主张获得了额外转载授权。模型权重许可请看官方仓库。案例来自原作者公开展示，非 BeatAPI 独立复测。
+
+## 更多案例库
+
+- [Fable 5.2](https://beatapi.io/zh/fable-5-2-videos) · [GitHub](https://github.com/BeatAPI/awesome-fable-5-2-videos)
+- [Seedream 5.5](https://beatapi.io/zh/seedream-5-5-prompts) · [GitHub](https://github.com/BeatAPI/awesome-seedream-5-5-prompts)
+- [GPT Image 2.6](https://beatapi.io/zh/gpt-image-2-6-prompts) · [GitHub](https://github.com/BeatAPI/awesome-gpt-image-2-6-prompts)
+- [MiniMax H3 Image](https://beatapi.io/zh/minimax-h3-image-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-image-prompts)
+- [MiniMax H3 Video](https://beatapi.io/zh/minimax-h3-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
+
+[BeatAPI 首页](https://beatapi.io/zh)
+
+封面为示意设计，不作为模型生成案例。

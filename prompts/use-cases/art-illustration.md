@@ -256,3 +256,38 @@ Image showcase. See the original post for prompts and workflow details.
 Image showcase. See the original post for prompts and workflow details.
 
 ---
+
+### 23. Hover-bike concept and engineering views
+
+[@Fujimoto_hina](https://x.com/Fujimoto_hina/status/2120457026002423845)
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3-image/0fa06643779175fc45a8806688c72c2bedbf0c6359a36b8401e27f5c8bbdb157.webp"><img src="https://media.beatapi.io/prompt-gallery/minimax-h3-image/0fa06643779175fc45a8806688c72c2bedbf0c6359a36b8401e27f5c8bbdb157.webp" alt="Hover-bike concept and engineering views" width="340" /></a>
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3-image/292d3a17c7f8da5ecb63ccc8632536a0c4059900d65a813abf54993d07278194.webp"><img src="https://media.beatapi.io/prompt-gallery/minimax-h3-image/292d3a17c7f8da5ecb63ccc8632536a0c4059900d65a813abf54993d07278194.webp" alt="Hover-bike concept and engineering views" width="340" /></a>
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3-image/1fa0663c906e64aa7aa359d077743fd1253700f94fb6348e6147cfaa80bed553.webp"><img src="https://media.beatapi.io/prompt-gallery/minimax-h3-image/1fa0663c906e64aa7aa359d077743fd1253700f94fb6348e6147cfaa80bed553.webp" alt="Hover-bike concept and engineering views" width="340" /></a>
+
+Image showcase. See the original post for prompts and workflow details.
+
+---
+
+### 24. Handcrafted woodland adventure
+
+[@PixelMindAI_](https://x.com/PixelMindAI_/status/2120459468769317037)
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3-image/99843d53c72cc318512408cf30570fe196af9b73a7ea19e9e2d7f40c52eb9e78.webp"><img src="https://media.beatapi.io/prompt-gallery/minimax-h3-image/99843d53c72cc318512408cf30570fe196af9b73a7ea19e9e2d7f40c52eb9e78.webp" alt="Handcrafted woodland adventure" width="700" /></a>
+
+Image showcase. See the original post for prompts and workflow details.
+
+---
+
+### 25. Cave stairway environment study
+
+[@PixelMindAI_](https://x.com/PixelMindAI_/status/2120436717866057952)
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3-image/8c8a43e389e25ea61b7e90c218a76fa1382eb39ed454b7bc1eee5f33991db1e0.webp"><img src="https://media.beatapi.io/prompt-gallery/minimax-h3-image/8c8a43e389e25ea61b7e90c218a76fa1382eb39ed454b7bc1eee5f33991db1e0.webp" alt="Cave stairway environment study" width="700" /></a>
+
+Image showcase. See the original post for prompts and workflow details.
+
+---
+
+
+[Website gallery](https://beatapi.io/minimax-h3-image-prompts) · [BeatAPI home](https://beatapi.io)
