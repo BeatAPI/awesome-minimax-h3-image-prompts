@@ -8,6 +8,8 @@
 
 ![Repeated outfit edits · model comparison](https://media.beatapi.io/prompt-gallery/minimax-h3-image/b3c7231ec3821bd7247ac94455c6b46f0cf9aaa7473263e66bb28ccdd26222c2.webp)
 
+Models in image order: MiniMax H3 Image / Seedream 5.5 / GPT Image 2.5.
+
 Full prompt not published.
 
 ## Clock hands · repeated editing
